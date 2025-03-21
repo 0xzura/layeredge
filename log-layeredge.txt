@@ -705,3 +705,32 @@
 [15:23:01 | 21-03-2025] Wallet Address: 0x93DD1dbd41B895D978Fb0b7E4522B45d4C45549c
 [15:23:01 | 21-03-2025] Node Points: 695445
 [15:23:01 | 21-03-2025] Last Claim Point: 20/03/2025 12:35:10
+[03:19:41 | 22-03-2025] Wallet Address: 0x93DD1dbd41B895D978Fb0b7E4522B45d4C45549c
+[03:19:41 | 22-03-2025] Node Points: 695445
+[03:19:41 | 22-03-2025] Last Claim Point: 20/03/2025 12:35:10
+[03:19:51 | 22-03-2025] 🚨 Failed to claim points for 0x93DD1dbd41B895D978Fb0b7E4522B45d4C45549c: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+[03:20:02 | 22-03-2025] 🚨 Failed to start node for 0x93DD1dbd41B895D978Fb0b7E4522B45d4C45549c: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
